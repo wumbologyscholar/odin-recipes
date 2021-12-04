@@ -1,2 +1,2 @@
 # odin-recipes
-This is the project for the HTML section of The Odin Project- Foundations
+This is the project for the HTML section of The Odin Project- Foundations. It is to make a simple, recipe website, and by completing this, I will demonstrate my growing knowledge of the various HTML tags, elements, and concepts I have been learning throughout my Odin Project coursework.
